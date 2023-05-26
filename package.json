@@ -1,0 +1,22 @@
+{
+   "name": "lh-lunch-api",
+   "version": "1.0.0",
+   "main": "index.js",
+   "devDependencies": {},
+   "scripts": {
+      "start": "node index.js"
+   },
+   "author": "Rikke Olsen & Christian Holm",
+   "license": "ISC",
+   "bugs": {
+      "url": "https://github.com/rikkerorbak/lh-lunch-api/issues"
+   },
+   "homepage": "https://github.com/rikkerorbak/lh-lunch-api#readme",
+   "description": "",
+   "dependencies": {
+      "axios": "^0.27.2",
+      "cheerio": "^1.0.0-rc.12",
+      "cors": "^2.8.5",
+      "express": "^4.18.1"
+   }
+}
