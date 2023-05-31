@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'lh-lunch-api'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8836AE74C6CB46608A1D54AFA2FEF680 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_69916F77D51B4E1EA139B7C23EB3693D }}
           package: .
