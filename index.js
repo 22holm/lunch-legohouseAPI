@@ -9,7 +9,7 @@ const cheerio = require('cheerio');
 app.use(cors());
 
 const PORT = process.env.PORT || 3000;
-const campusSite = 'https://lego.isscatering.dk/aastvej/en';
+const campusSite = 'https://lego.isscatering.dk/aastvej/';
 const midtownSite = 'https://lego.isscatering.dk/midtown/en';
 
 
