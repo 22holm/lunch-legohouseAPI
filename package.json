@@ -9,9 +9,9 @@
    "author": "Rikke Olsen & Christian Holm",
    "license": "ISC",
    "bugs": {
-      "url": "https://github.com/22holm/lh-lunch-api/issues"
+      "url": "https://github.com/22holm/lunch-legohouseAPI/issues"
    },
-   "homepage": "https://github.com/22holm/lh-lunch-api#readme",
+   "homepage": "https://github.com/22holm/lunch-legohouseAPI#readme",
    "description": "",
    "dependencies": {
       "axios": "^0.27.2",
